@@ -4,9 +4,7 @@
 (dump-html data)
 ```
 
-![sample1](https://imgur.com/l1JbgEB)
-
-![sample2](https://imgur.com/HVVvU3k)
+shots: https://imgur.com/l1JbgEB, https://imgur.com/HVVvU3k
 
 
 
