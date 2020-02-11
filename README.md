@@ -1,3 +1,10 @@
+## dump edn
+
+![sample1](https://imgur.com/l1JbgEB)
+
+![sample2](https://imgur.com/HVVvU3k)
+
+
 
 ## clip
 ```
