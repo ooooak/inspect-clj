@@ -1,6 +1,6 @@
 ## dump edn
 ```
-(require '[inspect.core])
+(require '[inspect.core :refer [dump-html]])
 (dump-html data) ; will dump data into dump.html
 ```
 
