@@ -1,10 +1,13 @@
 ## dump edn
 ```
 (require '[inspect.core])
-(dump-html data)
+(dump-html data) ; will dump data into dump.html
 ```
 
-shots: https://imgur.com/l1JbgEB, https://imgur.com/HVVvU3k
+screenshots 
+
+https://imgur.com/l1JbgEB
+https://imgur.com/HVVvU3k
 
 
 
