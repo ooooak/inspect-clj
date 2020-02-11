@@ -1,4 +1,8 @@
 ## dump edn
+```
+(require '[inspect.core])
+(dump-html data)
+```
 
 ![sample1](https://imgur.com/l1JbgEB)
 
